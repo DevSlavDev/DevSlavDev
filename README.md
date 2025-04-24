@@ -1,20 +1,6 @@
 
-<p align="center">
-  <pre>
 
- ________     _______   ___      ___            ________   ___             __       ___      ___           ________     _______   ___      ___ 
-|"      "\   /"     "| |"  \    /"  |          /"       ) |"  |           /""\     |"  \    /"  |         |"      "\   /"     "| |"  \    /"  |
-(.  ___  :) (: ______)  \   \  //  /          (:   \___/  ||  |          /    \     \   \  //  /          (.  ___  :) (: ______)  \   \  //  / 
-|: \   ) ||  \/    |     \\  \/. ./            \___  \    |:  |         /' /\  \     \\  \/. ./           |: \   ) ||  \/    |     \\  \/. ./  
-(| (___\ ||  // ___)_     \.    //     _____    __/  \\    \  |___     //  __'  \     \.    //     _____  (| (___\ ||  // ___)_     \.    //   
-|:       :) (:      "|     \\   /     ))_  ")  /" \   :)  ( \_|:  \   /   /  \\  \     \\   /     ))_  ") |:       :) (:      "|     \\   /    
-(________/   \_______)      \__/     (_____(  (_______/    \_______) (___/    \___)     \__/     (_____(  (________/   \_______)      \__/     
-                                                                                                                                               
-
- </pre>
-  </p>
-
-<h1 align="center">Vjačeslavs Trošins</h1>
+<h1 align="center">Slaff Troshin</h1>
 <p align="center"><i>Full-Stack Developer | Hardware Tinkerer | AI Enthusiast</i></p>
 
 <p align="center">
@@ -26,7 +12,7 @@
 
 ### 👋 Hey There!
 
-I'm Vjačeslavs, a dev who loves getting hands-on, whether that means wrestling with microcontrollers, wrangling servers, or painting pixels on a webpage[cite: 1, 4]. Think of me as a digital blacksmith, forging ideas into reality using a mix of code, CAD, and sometimes, actual 3D-printed parts[cite: 4, 9].
+I'm Slav, a dev who loves getting hands-on, whether that means wrestling with microcontrollers, wrangling servers, or painting pixels on a webpage[cite: 1, 4]. Think of me as a digital blacksmith, forging ideas into reality using a mix of code, CAD, and sometimes, actual 3D-printed parts[cite: 4, 9].
 
 For the past 6+ years, I've been navigating the awesome world where hardware meets software, leading product development and making cool stuff happen[cite: 2]. My mission? To build things that are not just functional and efficient, but also look kinda cool without breaking the bank[cite: 3]. Lately, I've been diving headfirst into the AI rabbit hole, exploring how we can train our own digital assistants and automate *all* the things[cite: 3, 11].
 
